@@ -63,4 +63,4 @@ var fmt = import("fmt")
 fmt.Sprintf("Hello, %v", "ACUnion") // Hello, ACUnion
 ```
 
-[返回主页](/README.md)
+[返回主页](../README.md)

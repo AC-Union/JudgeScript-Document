@@ -38,4 +38,4 @@ Limit:
 | parseTime     | 解析时间字符串                                                                             | 时间字符串:string | 时间的数值（单位 us）:string | acoj.parseTime("120ms")   |
 | parseSize     | 解析大小字符串                                                                             | 大小字符串:string | 大小的数值（单位 KB）:string | acoj.parseSize("64MB")    |
 
-[返回主页](/README.md)
+[返回主页](../README.md)
